@@ -22,8 +22,8 @@
 
 ## Install 
 ```bash
-git clone
-cd
+git clone https://github.com/menmengleap/bl4ckzus-payloads.git
+cd bl4ckzus-payloads
 ls / dir
 ```
 ## Command Using 
