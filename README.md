@@ -1,5 +1,20 @@
 <p align="center">
-  <img src="Img/Payload.png" width="300"/>
+  <a href="https://www.python.org">
+    <img src="https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white"/>
+  </a>
+
+  <a href="https://pip.pypa.io">
+    <img src="https://img.shields.io/badge/Pip-Package_Manager-3775A9?logo=python&logoColor=white"/>
+  </a>
+
+  <a href="https://virtualenv.pypa.io">
+    <img src="https://img.shields.io/badge/Virtualenv-Environment-4B8BBE?logo=python&logoColor=white"/>
+  </a>
+</p>
+
+
+<p align="center">
+  <img src="Img/Payload.png" width="900"/>
 </p>
 
 ## 𝘱𝘢𝘺𝘭𝘰𝘢𝘥 𝘣𝘺 𝘣𝘭4𝘤𝘬𝘻𝘶𝘴
